@@ -4,6 +4,11 @@
     "start": "micro"
   },
   "dependencies": {
-    "nodemailer": "^4.6.4"
+    "knex": "^0.14.6",
+    "micro": "^9.1.4",
+    "micro-dev": "^2.2.2",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.6.4",
+    "objection": "^1.1.7"
   }
 }
